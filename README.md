@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm quanrong (Tomás Ortín)
+
+- I'm currently participating on the MLH x Meta Production Engineering Fellowship
+- You will find most of my code at https://codeberg.org/quanrong
 
 <!--
 **ttn-ttn/ttn-ttn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
